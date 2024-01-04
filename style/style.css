@@ -1,13 +1,14 @@
 body{
-    background-color: #f0f0f0;
+    background-color: #c4c4c4;
 }
 h1{
-     color: rgb(255, 0, 0);
-     font-size: 25px;
-     font-family: 'Segoe UI';
-     background-color: black;
+     color: #ce43d3;
+     
 
 
+}
+h2{
+    color: #ce43d3;
 }
 p{
     font-size: large;
@@ -33,10 +34,16 @@ ol li{
 }
 .enviar{
     border-radius: 5px;
-    background-color: rgb(0, 0,255 );
+    background-color: #6bfd94
 }
 .etiqueta{
     font-size: 15px;
     background-color: rgb(0, 0,255 );
+    background-color: #0000ec;
+    border-radius: 17px;
 
+}
+input{
+    background-color: #f26a8a;
+    border-radius: 17px;
 }
