@@ -100,3 +100,22 @@ var elemento =colores.pop();
 console.log(elemento);
 console.log(colores);
 colores.find("azul");
+functiion nnombre(elemento){
+    //bloque de codigo
+    return true
+} 
+var encontraado = colores.find(function(elemento){
+return elemento === rojo;  
+} );
+var encontraado = colores.findIndex(function(elemento){
+    return elemento === 1;  
+    } );
+colores.find(function(elemewto)
+{
+    elemento===true
+});
+var encontraado = (function(){
+    return elemento === 1;  
+    } );
+
+    c

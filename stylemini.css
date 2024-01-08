@@ -1,0 +1,29 @@
+.cuerpo{
+  background-color: beige;
+  margin-left: 19%;
+  margin-right: 19%;
+  margin-top: 19%;
+  margin-block-end: 19%;
+  width: 600px;
+  height: 300px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(202, 202, 202);
+}
+.boton1{
+    background-color: rgb(30, 209, 99);
+    border-radius: 5px;
+    color: aliceblue;
+    border-color: rgb(30, 209, 99);
+    width: 100px;
+    height: 30px;
+}
+.content{
+    padding: 22px;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
