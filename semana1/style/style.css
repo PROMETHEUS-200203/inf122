@@ -1,5 +1,7 @@
 body{
     background-color: #c4c4c4;
+    font-family: nunito;
+    margin: 0;
 }
 h1{
      color: #ce43d3;
@@ -46,4 +48,14 @@ ol li{
 input{
     background-color: #f26a8a;
     border-radius: 17px;
+}
+:root{
+    --white:#FFFFFF;--black:;
+    --purple:#6F2CFF;
+--light-purple:#EFE9F9;
+--red-heart: ##A50954;
+--blue-heart:#ACD9B2;
+--sm:14px;
+--md:20px;
+--1g:60px;
 }
